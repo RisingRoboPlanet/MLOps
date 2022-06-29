@@ -1,7 +1,5 @@
 # Predict Customer Churn
 
-- Project **Predict Customer Churn**
-
 ## Project Description
 Identifies customers who have high probability to churn.<br>
 This project included Python package that follows PEP8 coding best practices
