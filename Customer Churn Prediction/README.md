@@ -1,6 +1,6 @@
 # Predict Customer Churn
 
-- Project **Predict Customer Churn** of ML DevOps Engineer Nanodegree Udacity
+- Project **Predict Customer Churn**
 
 ## Project Description
 Identifies customers who have high probability to churn.<br>
